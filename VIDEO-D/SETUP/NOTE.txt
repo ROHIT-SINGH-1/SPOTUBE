@@ -1,0 +1,38 @@
+--------------------------------------------------
+STEP 1: SETUP FFMPEG PATH - [DOWNLOAD VIDEO-D.EXE,
+OPEN EXE FILE FOLDER AND FIRST RUN Setup.bat]
+--------------------------------------------------
+
+*RUN [Setup.bat] AND PROCEED TO THE NEXT STEP*
+
+--------------------------------------------------
+STEP 2: EXTRACT FFMPEG
+--------------------------------------------------
+
+1. LOCATE 'FFMPEG.ZIP' INSIDE 'VIDEO-D'-> 'SETUP' FOLDER.
+2. UNZIP 'FFMPEG.ZIP' BUT DO NOT OPEN THE FFMPEG FOLDER.
+3. NAVIGATE TO 'FFMPEG -> BIN -> FFMPEG.EXE'.
+
+==================================================
+
+--------------------------------------------------
+STEP 3: MODIFY SYSTEM ENVIRONMENT VARIABLES
+--------------------------------------------------
+
+1. OPEN 'SYSTEM ENVIRONMENT VARIABLES'.
+2. SEARCH FOR 'SYSTEM ENVIRONMENT VARIABLES' ON YOUR SYSTEM.
+3. ADD THE COPIED 'FFMPEG.EXE' PATH TO THE 'PATH' SYSTEM VARIABLE.
+
+==================================================
+
+--------------------------------------------------
+STEP 4: VERIFY FFMPEG PATH
+--------------------------------------------------
+
+1. OPEN COMMAND PROMPT (CMD).
+2. TYPE 'ffmpeg -version' TO VERIFY PATH INCLUSION.
+3. ENSURE THE PATH IS CORRECTLY ADDED FOR FUNCTIONALITY.
+
+THANK YOU FOR USING THIS TOOL!
+
+==================================================
