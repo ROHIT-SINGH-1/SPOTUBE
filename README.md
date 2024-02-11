@@ -1,67 +1,73 @@
-# YouTube & Spotify Video Downloader
+# YOUTUBE & SPOTIFY VIDEO DOWNLOADER
 
-Download your favorite video songs from YouTube and Spotify with ease using this versatile tool. Download multiple songs simultaneously by pasting the links, separated by commas.
+DOWNLOAD YOUR FAVORITE VIDEO SONGS FROM YOUTUBE AND SPOTIFY WITH EASE USING THIS VERSATILE TOOL. DOWNLOAD MULTIPLE SONGS SIMULTANEOUSLY BY PASTING THE LINKS, SEPARATED BY COMMAS.
 
-## How to Use
+## HOW TO USE
 
-1. **Choose Platform:**
-   - Select your preferred platform: Spotify or YouTube.
+1. **FEATURE**
+   - INTRODUCED AN ICON TRAY FOR EASIER ACCESS AND CONTROL OF THE APPLICATION..
+   - PERFORMANCE IMPROVE , FAST DOWNLOAD.
+   - BUGS FIX , MAJOR PROBLEM FIX.
+     
+2. **CHOOSE PLATFORM:**
+   - SELECT YOUR PREFERRED PLATFORM: SPOTIFY OR YOUTUBE.
 
-2. **Paste Links:**
-   - Copy and paste the links of the video, songs from YouTube or Spotify.
+3. **PASTE LINKS:**
+   - COPY AND PASTE THE LINKS OF THE VIDEO, SONGS FROM YOUTUBE OR SPOTIFY.
+     
+4. **ADD LINKS:**
+   - PASTE THE LINKS INTO THE TOOL, SEPARATING MULTIPLE LINKS BY COMMAS.
+     - EXAMPLE: `VIDEO LINK_1`, `VIDEO LINK_2`, `VIDEO LINK_3`
+     - PLAYLIST: PLAYLIST DOWNLOAD OPTION ADD USING PLAYLIST LINK THEY DOWNLOAD FULL PLAYLIST `PLAYLIST.LINK`
 
-3. **Add Links:**
-   - Paste the links into the tool, separating multiple links by commas.
-     - Example: `VIDEO LINK_1`, `VIDEO LINK_2`, `VIDEO LINK_3`
+5. **DOWNLOAD:**
+   - CLICK THE DOWNLOAD BUTTON TO START THE DOWNLOAD PROCESS.
 
-4. **Download:**
-   - Click the download button to start the download process.
+**NOTE:** ENSURE EACH LINK IS SEPARATED BY A COMMA WITHOUT SPACES FOR DOWNLOADING MULTIPLE SONGS.
 
-**Note:** Ensure each link is separated by a comma without spaces for downloading multiple songs.
+## INSTALLATION
 
-## Installation
+### WINDOWS:
 
-### Windows:
+1. **DOWNLOAD:**
+   - OBTAIN THE EXECUTABLE FILE FROM THE [RELEASE PAGE](HTTPS://GITHUB.COM/ROHIT-SINGH-1/SPOTTUBEDOWNLOAD/RELEASES).
 
-1. **Download:**
-   - Obtain the executable file from the [release page](https://github.com/ROHIT-SINGH-1/SpotTubeDownload/releases).
+2. **INSTALLATION:**
+   - OPEN THE DOWNLOADED EXE FILE TO INSTALL THE APPLICATION.
 
-2. **Installation:**
-   - Open the downloaded EXE file to install the application.
+3. **FOLDER ACCESS:**
+   - NAVIGATE TO THE `VIDEO-D` FOLDER AND LOCATE THE `SETUP` FOLDER.
 
-3. **Folder Access:**
-   - Navigate to the `VIDEO-D` folder and locate the `Setup` folder.
+## IMPORTANT NOTE
 
-## Important Note
+### PLEASE READ CAREFULLY
 
-### Please Read Carefully
+BEFORE RUNNING THE APPLICATION, CAREFULLY REVIEW THE INSTRUCTIONS PROVIDED IN THE `SETUP` FOLDER FOR ESSENTIAL DETAILS AND SETUP GUIDANCE.
 
-Before running the application, carefully review the instructions provided in the `Setup` folder for essential details and setup guidance.
+## RUNNING THE APPLICATION
 
-## Running the Application
+FOR SMOOTH FUNCTIONALITY, RUN THIS TOOL WITH ADMINISTRATOR PRIVILEGES, ESPECIALLY WHEN DEALING WITH MULTIPLE DOWNLOADS.
 
-For smooth functionality, run this tool with administrator privileges, especially when dealing with multiple downloads.
+### RUNNING AS ADMINISTRATOR (WINDOWS)
 
-### Running as Administrator (Windows)
+TO RUN THE TOOL AS AN ADMINISTRATOR ON WINDOWS:
 
-To run the tool as an administrator on Windows:
+1. **RIGHT-CLICK:**
+   - RIGHT-CLICK ON THE APPLICATION.
 
-1. **Right-click:**
-   - Right-click on the application.
+2. **RUN AS ADMINISTRATOR:**
+   - SELECT "RUN AS ADMINISTRATOR" FROM THE CONTEXT MENU.
 
-2. **Run as Administrator:**
-   - Select "Run as administrator" from the context menu.
+IF YOU FACE FURTHER ISSUES, PLEASE REFER TO THE [ISSUES](HTTPS://GITHUB.COM/ROHIT-SINGH-1/SPOTTUBEDOWNLOAD/ISSUES) SECTION OR OPEN A NEW ISSUE FOR ASSISTANCE.
 
-If you face further issues, please refer to the [Issues](https://github.com/ROHIT-SINGH-1/SpotTubeDownload/issues) section or open a new issue for assistance.
+## TROUBLESHOOTING
 
-## Troubleshooting
+- IF ENCOUNTERING ISSUES RUNNING `VIDEO-D.EXE`, RUN `SETUP.BAT` .
+- ENSURE 'SPOTDL' AND 'PYTUBE'IS PROPERLY INSTALLED.   
 
-- If encountering issues running `VIDEO-D.exe`, run `Setup.bat` .
-- Ensure 'SPOTDL' AND 'PYTUBE'is properly installed.   
+## DISCLAIMER
 
-## Disclaimer
-
-This tool is for personal use only. Respect copyright and usage restrictions while downloading content from YouTube and Spotify.
+THIS TOOL IS FOR PERSONAL USE ONLY. RESPECT COPYRIGHT AND USAGE RESTRICTIONS WHILE DOWNLOADING CONTENT FROM YOUTUBE AND SPOTIFY.
 
 
 
