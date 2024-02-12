@@ -10,8 +10,7 @@ def check_install_dependency(package):
             stdout=subprocess.DEVNULL,
             stderr=subprocess.STDOUT,
         )
-
-
+        
 required_packages = [
     "spotdl",
     "yt_dlp",
